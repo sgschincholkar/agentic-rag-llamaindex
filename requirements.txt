@@ -1,0 +1,8 @@
+llama-index>=0.12
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-tools-arxiv
+llama-index-tools-brave-search
+openai
+python-dotenv
+pypdf
